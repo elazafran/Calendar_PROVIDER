@@ -1,0 +1,72 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/com/example/contentprovider/CONTENTPROVIDER/.classpath => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/.classpath
+* src/com/example/contentprovider/CONTENTPROVIDER/.project => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/.project
+* src/com/example/contentprovider/CONTENTPROVIDER/.settings/org.eclipse.jdt.core.prefs => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/.settings/org.eclipse.jdt.core.prefs
+* src/com/example/contentprovider/CONTENTPROVIDER/AndroidManifest.xml => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/AndroidManifest.xml
+* src/com/example/contentprovider/CONTENTPROVIDER/bin/AndroidManifest.xml => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/bin/AndroidManifest.xml
+* src/com/example/contentprovider/CONTENTPROVIDER/bin/CONTENTPROVIDER.apk => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/bin/CONTENTPROVIDER.apk
+* src/com/example/contentprovider/CONTENTPROVIDER/bin/classes.dex => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/bin/classes.dex
+* src/com/example/contentprovider/CONTENTPROVIDER/bin/res/drawable-hdpi/ic_launcher.png => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/bin/res/drawable-hdpi/ic_launcher.png
+* src/com/example/contentprovider/CONTENTPROVIDER/bin/res/drawable-ldpi/ic_launcher.png => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/bin/res/drawable-ldpi/ic_launcher.png
+* src/com/example/contentprovider/CONTENTPROVIDER/bin/res/drawable-mdpi/ic_launcher.png => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/bin/res/drawable-mdpi/ic_launcher.png
+* src/com/example/contentprovider/CONTENTPROVIDER/bin/res/drawable-xhdpi/ic_launcher.png => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/bin/res/drawable-xhdpi/ic_launcher.png
+* src/com/example/contentprovider/CONTENTPROVIDER/bin/resources.ap_ => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/bin/resources.ap_
+* src/com/example/contentprovider/CONTENTPROVIDER/ic_launcher-web.png => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/ic_launcher-web.png
+* src/com/example/contentprovider/CONTENTPROVIDER/proguard-project.txt => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/proguard-project.txt
+* src/com/example/contentprovider/CONTENTPROVIDER/project.properties => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/project.properties
+* src/com/example/contentprovider/CONTENTPROVIDER/res/drawable-hdpi/ic_launcher.png => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/res/drawable-hdpi/ic_launcher.png
+* src/com/example/contentprovider/CONTENTPROVIDER/res/drawable-ldpi/ic_launcher.png => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/res/drawable-ldpi/ic_launcher.png
+* src/com/example/contentprovider/CONTENTPROVIDER/res/drawable-mdpi/ic_launcher.png => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/res/drawable-mdpi/ic_launcher.png
+* src/com/example/contentprovider/CONTENTPROVIDER/res/drawable-xhdpi/ic_launcher.png => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/res/drawable-xhdpi/ic_launcher.png
+* src/com/example/contentprovider/CONTENTPROVIDER/res/layout/activity_main.xml => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/res/layout/activity_main.xml
+* src/com/example/contentprovider/CONTENTPROVIDER/res/menu/activity_main.xml => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/res/menu/activity_main.xml
+* src/com/example/contentprovider/CONTENTPROVIDER/res/values-v11/styles.xml => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/res/values-v11/styles.xml
+* src/com/example/contentprovider/CONTENTPROVIDER/res/values-v14/styles.xml => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/res/values-v14/styles.xml
+* src/com/example/contentprovider/CONTENTPROVIDER/res/values/strings.xml => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/res/values/strings.xml
+* src/com/example/contentprovider/CONTENTPROVIDER/res/values/styles.xml => app/src/main/resources/com/example/contentprovider/CONTENTPROVIDER/res/values/styles.xml
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

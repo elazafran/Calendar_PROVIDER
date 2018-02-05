@@ -1,0 +1,182 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/usuario/Escritorio/CONTENTPROVIDER1/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/usuario/Escritorio/CONTENTPROVIDER1/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/usuario/Escritorio/CONTENTPROVIDER1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/usuario/Escritorio/CONTENTPROVIDER1/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "5,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "212,503",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "498,658"
+                    }
+                },
+                {
+                    "source": "/home/usuario/Escritorio/CONTENTPROVIDER1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "56,109,162",
+                        "endColumns": "52,52,50",
+                        "endOffsets": "104,157,208"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,161",
+                        "endColumns": "52,52,50",
+                        "endOffsets": "103,156,207"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/patricio/Downloads/CONTENTPROVIDER1/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/patricio/Downloads/CONTENTPROVIDER1/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/usuario/Escritorio/CONTENTPROVIDER1/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/usuario/Escritorio/CONTENTPROVIDER1/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/patricio/Downloads/CONTENTPROVIDER1/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/patricio/Downloads/CONTENTPROVIDER1/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/patricio/Downloads/CONTENTPROVIDER1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/patricio/Downloads/CONTENTPROVIDER1/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "5,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "212,503",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "498,658"
+                    }
+                },
+                {
+                    "source": "/Users/patricio/Downloads/CONTENTPROVIDER1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "56,109,162",
+                        "endColumns": "52,52,50",
+                        "endOffsets": "104,157,208"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,161",
+                        "endColumns": "52,52,50",
+                        "endOffsets": "103,156,207"
+                    }
+                }
+            ]
+        }
+    ]
+}
